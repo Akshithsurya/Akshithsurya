@@ -1,38 +1,4 @@
-/*
-     SUPER-DUPER COOL ARDUINO BASED MULTICOLOR SOUND PLAYING LIGHTSABER!
-   HARDWARE:
-     Addressable LED strip (WS2811) to get any blade color and smooth turn on effect
-     MicroSD card module to play some sounds
-     IMU MPU6050 (accel + gyro) to generate hum. Frequency depends on angle velocity of blade
-     OR measure angle speed and play some hum sounds from SD
-   CAPABILITIES:
-     Smooth turning on/off with lightsaber-like sound effect
-     Randomly pulsing color (you can turn it off)
-     Sounds:
-       MODE 1: generated hum. Frequency depends on angle velocity of blade
-       MODE 2: hum sound from SD card
-         Slow swing - long hum sound (randomly from 4 sounds)
-         Fast swing - short hum sound (randomly from 5 sounds)
-     Bright white flash when hitting
-     Play one of 16 hit sounds, when hit
-       Weak hit - short sound
-       Hard hit - long "bzzzghghhdh" sound
-     After power on blade shows current battery level from 0 to 100 percent
-     Battery safe mode:
-       Battery is drain BEFORE TURNING ON: GyverSaber will not turn on, button LED will PULSE a couple of times
-       Battery is drain AFTER TURNING ON: GyverSaber will be turned off automatically
-   CONTROL BUTTON:
-     HOLD - turn on / turn off GyverSaber
-     TRIPLE CLICK - change color (red - green - blue - yellow - pink - ice blue)
-     QUINARY CLICK - change sound mode (hum generation - hum playing)
-     Selected color and sound mode stored in EEPROM (non-volatile memory)
-     
-   Project GitHub repository: https://github.com/AlexGyver/EnglishProjects/tree/master/GyverSaber
-   YouTube channel: https://www.youtube.com/channel/UCNEOyqhGzutj-YS-d5ckYdg?sub_confirmation=1
-   Author: MadGyver
-*/
 
-// ---------------------------- SETTINGS -------------------------------
 #define NUM_LEDS 30         // number of microcircuits WS2811 on LED strip (note: one WS2811 controls 3 LEDs!)
 #define BTN_TIMEOUT 800     // button hold delay, ms
 #define BRIGHTNESS 255      // max LED brightness (0 - 255)
