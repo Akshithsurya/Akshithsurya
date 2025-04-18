@@ -1,11 +1,4 @@
-/*************************************************************
 
-  You can use this sketch as a debug tool that prints all incoming values
-  sent by a widget connected to a Virtual Pin 1 in the Blynk App.
-
-  App dashboard setup:
-    Slider widget (0...100) on V1
- *************************************************************/
 
 /* Fill-in information from Blynk Device Info here */
 #define BLYNK_TEMPLATE_ID           "your id"
