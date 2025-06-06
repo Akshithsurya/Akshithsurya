@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Akshithsurya
 - 👀 I’m interested in robotics/lua/c++/c#/micro python/java script.
 - devoloping c++
 - devoloping c#/c++/lua/micro pyton/java script/arduino/esp/other micro controller
