@@ -1,9 +1,10 @@
 - 👀 I’m interested in robotics/lua/c++/c#/micro python/java script.
 - devoloping c++
-- devoloping c#/c++/lua/micro pyton/java script/arduino/esp/other micro controller
+- devoloping c#/c++/lua/micro pyton/javascript/assembly/GO/arduino/esp/other micro controller
 -  I’m looking to collaborate on anything
 - 📫 How to reach me akshithsurya1@gmail.com
-- 
+- White hat hacker
+-  
 
 <!---
 Akshithsurya/Akshithsurya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
