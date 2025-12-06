@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 💫 About Me:
 ! I’m interested in robotics/Lua/C++/C#/MicroPython/JavaScript.<br>- developing C++<br>- developing C#/C++/Lua/MicroPython/JavaScript/Assembly/Go/Arduino/ESP/other microcontrollers<br>- I’m looking to collaborate on anything<br>- How to reach me: akshithsurya1@gmail.com<br>- black hat hacker<br>- full-stack developer<br>- winner of local even NASA Space Apps Challenge 2025 thrissur<br>- Global Nominee of NASA Space Apps challenge 2025<br>- AI/ML engineer<br>- hardware designer<br>-software designer/creator<br>- website designer
 
 
