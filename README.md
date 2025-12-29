@@ -1,5 +1,5 @@
 # 💫 About Me:
-! I’m interested in robotics/Lua/C++/C#/MicroPython/JavaScript.<br>- developing C#/C++/Lua/MicroPython/JavaScript/Assembly/Go/she'll/Bash/Powershell/Arduino/ESP/other microcontrollers<br>- I’m looking to collaborate on anything<br>- black hat hacker<br>- full-stack developer<br>- winner of local even NASA Space Apps Challenge 2025 thrissur<br>- Team leader of an open source coder RC_Real Coding<br>- Global Nominee of NASA Space Apps challenge 2025<br>- AI/ML engineer<br>- hardware designer<br>-software designer/creator<br>- website designer<br>- malware creator
+! I’m interested in robotics/Lua/C++/C#/MicroPython/JavaScript.<br>- developing C#/C++/Lua/MicroPython/JavaScript/Assembly/Go/she'll/Bash/Powershell/Arduino/ESP/other microcontrollers<br>- I’m looking to collaborate on anything<br>- black hat hacker<br>- full-stack developer<br>- winner of local even NASA Space Apps Challenge 2025 thrissur<br>- Team leader of an open source coding team RC_Real Coding<br>- Global Nominee of NASA Space Apps challenge 2025<br>- AI/ML engineer<br>- hardware designer<br>-software designer/creator<br>- website designer<br>- malware creator
 
 
 ## 🌐 Socials:
