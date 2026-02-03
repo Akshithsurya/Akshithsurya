@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Akshithsurya&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Akshithsurya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Akshithsurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshithsurya&show_icons=true&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Akshithsurya&icon=0&color=0)](https://visitcount.itsvg.in)
