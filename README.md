@@ -1,103 +1,363 @@
+<div align="center">
 
-> "The cosmos is within us. We are made of star-stuff." — Carl Sagan
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  [OK] BIOS v4.2.1 — PALAKKAD GROUND STATION                     ║
+║  [OK] Initialising star field renderer...                        ║
+║  [OK] Loading orbital mechanics module...                        ║
+║  [..] Connecting to NASA DSN uplink...                           ║
+║  [OK] Mission designation: RC_REAL_CODING                        ║
+║  [OK] Subject: AKSHITH SURYA — ID-2025-AKS                       ║
+║  [OK] All systems nominal. Launching. ████████████████ 100%      ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
----
-
-## TECHNICAL CAPABILITIES
-
-### Core Systems
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
-### Frameworks & Platforms
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
-
-### Hardware & Embedded
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-%23C51A4A.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+</div>
 
 ---
 
-## ACTIVE MISSIONS
+<div align="center">
 
-### EXOVision — NASA Space Apps Challenge 2025
-**Status:** Global Nominee | Hub Winner  
-**Tech Stack:** React · TensorFlow · Vite · TailwindCSS  
-AI-assisted exoplanet detection system with real-time spectrum analysis and predictive classification engine. Built in 48 hours with team RC_Real Coding.
+<h1>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=1000&color=D63F3F&center=true&vCenter=true&width=600&lines=AKSHITH+SURYA;Space+Science+%26+Engineering;RC-01+%C2%B7+PALAKKAD%2C+KERALA" alt="Akshith Surya" />
+</h1>
 
-### Arivu — Career Guidance Platform
-**Status:** In Development  
-**Tech Stack:** Python · AI/ML · Automation  
-Educational platform helping science students explore career paths through explainable AI and accessible information design.
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=800&color=F7A928&center=true&vCenter=true&width=500&lines=Multi-Stack+Developer;Hardware+Hacker;NASA+Space+Apps+Global+Nominee;Astrophysics+Enthusiast;Lua+%26+C%2B%2B+Engineer;Open+Source+Builder;Team+RC_Real_Coding" alt="Roles" />
 
-### Security Research Projects
-- **Vulcan:** Educational exploit framework (Bash) — GPL-3.0
-- **ESP_Penetrator:** ESP32 hardware penetration testing platform
+<br/><br/>
 
-### IoT Firmware Collection
-Modular Arduino/ESP sketches for WiFi-controlled vehicles, environmental sensors, and automation systems.
+[![NASA Space Apps](https://img.shields.io/badge/NASA_Space_Apps-Global_Nominee-4FC3F7?style=flat-square&logo=nasa&logoColor=white)](https://spaceapps.nasa.gov)
+[![ISRO](https://img.shields.io/badge/ISRO-EsroMagica_Workshop-D63F3F?style=flat-square)](https://isro.gov.in)
+[![Grade](https://img.shields.io/badge/Grade-10_CBSE-00FF88?style=flat-square&logoColor=white)](https://github.com/Akshithsurya)
+[![Location](https://img.shields.io/badge/📡-Palakkad,_Kerala_10.79°N-F7A928?style=flat-square)](https://github.com/Akshithsurya)
+
+</div>
 
 ---
 
-## MISSION RECORDS
+<div align="center">
 
-| Year | Achievement | Organization |
-|------|-------------|--------------|
-| 2025 | Global Nominee — Galactic Problem Solver | NASA Space Apps Challenge |
-| 2025 | Hub Winner, Thrissur | NASA Space Apps Challenge |
-| 2025 | First Prize — Project Submission | ISRO Space Week Programme |
-| 2025 | Second Prize — Space Science Quiz | ISRO Space Week Programme |
-| 2025 | Workshop Completion — EsroMagica | ISRO |
+```
+◉ LAT 10.7867°N  ·  LON 76.6548°E  ·  ALT 75m MSL  ·  STATUS: ACTIVE UPLINK
+```
 
-**Mentorship:** Dr. Aswin Sekhar — Planetary Scientist, NASA-affiliated researcher
+</div>
 
 ---
 
-## CURRENT OPERATIONS
+## `[ MISSION BRIEF ]`
 
-**Exploring:**
-- Transit Photometry & Near-Earth Objects
-- Spectral Classification ML
-- Kerala Astronomical Heritage
-- RF & Signal Analysis
+> *"Currently building at the intersection of space data and machine learning.  
+> Reading widely across astrophysics, mathematics, and Kerala's extraordinary scientific heritage."*
 
-**Building:**
-- EXOVision ML pipeline enhancements
-- Arivu career guidance platform
-- Hardware security frameworks
+Builder and space science student from **Palakkad, Kerala**. I work across **software, hardware, and data** — and spend most of my time thinking about the physical universe. Grade 10 CBSE, aspiring astrophysicist.
 
-**Thinking About:**
-- Signal detection theory
-- Hardware engineering & space science intersections
-- The line between signal and noise
+Currently expanding my technical foundation through **IIT Bombay's Certificate Programme in AI & ML** and **IIT Madras's online aerospace curriculum**, focusing on automation, intelligent systems, and space engineering principles.
+
+I led team **RC_Real Coding** at **NASA Space Apps Challenge 2025** in Thrissur — earning **Global Nominee** status with our submission, *EXOVision*.
 
 ---
 
-## SYSTEM METRICS
+## `[ 01 / MISSION LOGS — THINGS I'VE BUILT ]`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshithsurya&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+<table>
+<tr>
+<td width="60%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshithsurya&theme=tokyonight&hide_border=true&layout=compact&count_private=false)
+### 🔴 EXOVision — *Featured*
+`NASA Space Apps Challenge 2025 · Thrissur`
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Akshithsurya&theme=tokyonight&hide_border=true)
+AI-assisted exoplanet finder with real-time spectrum analysis, predictive analytics, and custom classification engine. Selected as **Global Nominee**. Built in 48 hours with team RC_Real Coding.
+
+[![Live](https://img.shields.io/badge/Live-Demo-F7A928?style=flat-square)](https://lively-gelato-c4334c.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-333?style=flat-square&logo=github)](https://github.com/Akshithsurya/ExoVision)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+</td>
+<td width="40%">
+
+```
+TRANSIT PHOTOMETRY — LIVE
+┌─────────────────────────┐
+│  ⋯⋯⋯⋯⋯\_/⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯  │
+│  ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯\_/⋯⋯⋯⋯⋯  │
+│  ◉ TRANSIT DETECTED     │
+│  ΔF = -0.0231           │
+│  P  = 3.47 days         │
+└─────────────────────────┘
+REF: PALAKKAD 10.79°N
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="60%">
+
+### 🟡 Arivu — *In Development*
+`Personal Project · Python · AI/ML`
+
+Career guidance platform helping science students explore real-world career paths. We explain ideas and fields in a simple, explainable way — not to tell you what to decide, but to show you what's out there so you can decide yourself.
+
+[![Live](https://img.shields.io/badge/Visit-Arivu-F7A928?style=flat-square)](https://arivu-pallakad.netlify.app/)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI/ML](https://img.shields.io/badge/-AI%2FML-00FF88?style=flat-square)
+![Education](https://img.shields.io/badge/-Education-B57BFF?style=flat-square)
+
+</td>
+<td width="40%">
+
+```
+ARIVU · "Knowledge" in Malayalam
+┌─────────────────────────┐
+│  ▸ Career Pathfinder    │
+│  ▸ Field Explorer       │
+│  ▸ Science Simplified   │
+│  ▸ Student-First Design │
+│  STATUS: BUILDING ████░ │
+└─────────────────────────┘
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="60%">
+
+### 🔴 Vulcan + ESP_Penetrator — *Research*
+`Security Research · Bash · ESP32`
+
+**Vulcan** — Educational exploit framework in Bash for controlled security research. GPL-3.0.  
+**ESP_Penetrator** — ESP32 hardware pentesting tool. RF exploitation at firmware level.
+
+[![Vulcan](https://img.shields.io/badge/GitHub-Vulcan-D63F3F?style=flat-square&logo=github)](https://github.com/Akshithsurya/Vulcan)
+[![ESP](https://img.shields.io/badge/GitHub-ESP_Penetrator-D63F3F?style=flat-square&logo=github)](https://github.com/Akshithsurya/ESP_Penetrator)
+![Bash](https://img.shields.io/badge/-Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square)
+
+</td>
+<td width="40%">
+
+```
+$ ./vulcan.sh --mode=safe
+[*] Loading payload modules...
+[!] Shell: bash  GPL-3.0
+[+] Educational mode active
+[i] Research use only
+█▌
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="60%">
+
+### 🟢 IoT Firmware Collection — *Hardware*
+`Arduino · ESP8266 · ESP32`
+
+Arduino/ESP sketches — WiFi cars, Blynk sensors, weather stations, servo control, obstacle avoiders, plant monitors. A growing collection of hardware experiments bridging physical and digital.
+
+[![GitHub](https://img.shields.io/badge/GitHub-IoT_Firmware-333?style=flat-square&logo=github)](https://github.com/Akshithsurya/Akshithsurya)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/-MQTT-3C5280?style=flat-square)
+![Blynk](https://img.shields.io/badge/-Blynk-00E5FF?style=flat-square)
+
+</td>
+<td width="40%">
+
+```
+IoT NODE TOPOLOGY
+  [Hub] ──── [ESP32]
+   │    ────  [Blynk]
+   │    ────  [DHT11]
+   │    ──── [WiFi AP]
+   └──── [MQTT Cloud]
+  ◉ 5 nodes · ACTIVE
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## COMMUNICATION CHANNELS
+## `[ 02 / CAPABILITIES — THE STACK ]`
 
-**Primary:** [Portfolio](https://akshith-surya-portfolio-ak.netlify.app/)  
-**GitHub:** [@Akshithsurya](https://github.com/Akshithsurya)  
-**Email:** [akshithsurya1@gmail.com](mailto:akshithsurya1@gmail.com)  
-**Instagram:** [@ak_45_______](https://instagram.com/ak_45_______) | [@k3rnel_](https://instagram.com/k3rnel_)  
-**YouTube:** [@kuttichathan-j9c](https://youtube.com/@kuttichathan-j9c)  
-**CodePen:** [@Akshithsurya](https://codepen.io/Akshithsurya)
+<table>
+<tr>
+<td>
+
+**Languages**
+```
+C++  C#  Python  JavaScript
+Go   Lua  Bash   PowerShell
+HTML  CSS
+```
+
+</td>
+<td>
+
+**Frameworks**
+```
+React    Vue.js   Three.js
+TensorFlow  Tailwind  Godot
+Love.lua
+```
+
+</td>
+<td>
+
+**Hardware**
+```
+Raspberry Pi   Arduino
+ESP32   ESP8266
+Linux   Docker   Tor
+```
+
+</td>
+</tr>
+</table>
+
+**Proficiency Index:**
+
+```
+C++ / C#         ████████████████████░░  88%
+Python           ██████████████████░░░░  82%
+JavaScript       ████████████████░░░░░░  78%
+Lua              █████████████████████░  90%
+Bash / Shell     ████████████████░░░░░░  76%
+React            ███████████████░░░░░░░  72%
+Hardware / IoT   ███████████████████░░░  85%
+ML / TensorFlow  █████████████░░░░░░░░░  65%
+AI/ML (IIT-B)    ██████████░░░░░░░░░░░░  45%
+Aerospace (IITM) █████████░░░░░░░░░░░░░  38%
+```
+
+**Learning Path:** `IIT-B AI/ML` · `IIT-M Aerospace` · `Automation`
 
 ---
+
+## `[ 03 / MISSION RECORDS — ACHIEVEMENTS ]`
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🌐 NASA Space Apps Challenge 2025**  
+`Global Nominee · Galactic Problem Solver`
+
+Led team RC_Real Coding through NASA Space Apps Challenge 2025 — overseeing direction, technical architecture, and final presentation.  
+![Badge](https://img.shields.io/badge/Certificate-Global_Nominee-4FC3F7?style=for-the-badge)
+
+</td>
+<td align="center" width="50%">
+
+**🥇 ISRO Space Week Programme**  
+`First Prize — Project Submission`
+
+Received first prize in the project submission category of the ISRO Space Week programme, recognised with an official certificate.  
+![Badge](https://img.shields.io/badge/Prize-1st_Place-F7A928?style=for-the-badge)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**🥈 ISRO Space Week Programme**  
+`Second Prize — Space Science Quiz`
+
+Placed second in the space science quiz of the ISRO Space Week programme.  
+![Badge](https://img.shields.io/badge/Prize-2nd_Place-B57BFF?style=for-the-badge)
+
+</td>
+<td align="center" width="50%">
+
+**🛰 ISRO EsroMagica Workshop**  
+`Nov 2025 · ISRO Missions & Space Tech Intensive`
+
+Attended EsroMagica — direct exposure to India's active space missions, satellite systems, and planetary science. Mentorship established with **Dr. Aswin Sekhar** (NASA-affiliated, meteor dynamics & NEOs).  
+![Badge](https://img.shields.io/badge/Attended-EsroMagica-00FF88?style=for-the-badge)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `[ 04 / ACTIVE TRANSMISSIONS — WHAT I'M DOING NOW ]`
+
+> *Updated: April 2026 · Palakkad, Kerala*
+
+**◉ Exploring:**
+- 🔴 Transit Photometry
+- 🟡 Near-Earth Objects
+- 🔵 Spectral Classification ML
+- 🟢 Kerala Astronomical Heritage
+- 🟣 RF & Signal Analysis
+- 🟡 UWC & Community Science
+- 🟡 **Arivu** — Career Guidance Platform
+
+**◎ Building:**  
+Deepening *EXOVision* — improving the ML pipeline's classification accuracy and building a cleaner transit photometry interface. Developing *Arivu*, a career guidance platform helping science students explore real-world career paths. Pioneering a new modelling framework that removes environmental constraints.
+
+**◈ Thinking About:**  
+Transit photometry as a philosophy of detection — how we find what we cannot directly see. Whether hardware engineering and space science share a common grammar of uncertainty. The line between a signal and noise when the instrument is the Earth itself. And what it means to come from a place that named stars before telescopes.
+
+---
+
+## `[ 05 / DOSSIER ]`
+
+<div align="center">
+
+| KEY | VALUE |
+|:----|:------|
+| `Age` | 15 |
+| `Grade` | 10 — CBSE |
+| `Location` | Palakkad, KL |
+| `GitHub` | @Akshithsurya |
+| `Projects` | 6+ |
+| `Awards` | 3 |
+| `Status` | ACTIVE |
+| `Mentor` | Dr. Aswin Sekhar |
+| `Curiosity` | ∞ |
+
+</div>
+
+---
+
+## `[ 06 / SIGNAL ORIGIN — OPEN CHANNEL ]`
+
+<div align="center">
+
+```
+◉ STATUS: OPEN TO CONNECT · RESPONSE < 24H
+```
+
+[![GitHub](https://img.shields.io/badge/GitHub-Akshithsurya-181717?style=for-the-badge&logo=github)](https://github.com/Akshithsurya)
+[![Instagram](https://img.shields.io/badge/Instagram-ak__45______-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ak_45_______)
+[![CodePen](https://img.shields.io/badge/CodePen-Akshithsurya-000000?style=for-the-badge&logo=codepen)](https://codepen.io/Akshithsurya)
+[![Discord](https://img.shields.io/badge/Discord-ak__dev__45-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ak_dev_45)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+© 2026 AKSHITH SURYA — PALAKKAD, KERALA
+Built with curiosity · 10.79°N · 76.65°E
+
+Grade 10 · CBSE  ·  NASA Space Apps · Global Nominee
+ISRO EsroMagica Workshop  ·  Mentored by Dr. Aswin Sekhar
+UWC Applicant 2027
+```
+
+> *"The cosmos is within us. We are made of star-stuff."*  
+> — Carl Sagan · Cosmos
+
+</div>
