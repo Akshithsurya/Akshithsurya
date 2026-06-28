@@ -17,6 +17,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Akshithsurya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Akshithsurya&icon=0&color=0)](https://visitcount.itsvg.in)
+[[![](https://komarev.com/ghpvc/?username=Akshithsurya&icon=0&color=0)](https://visitcount.itsvg.in)](https://github-readme-stats.hackclub.dev/api/wakatime?username=53116&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
