@@ -25,13 +25,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Akshithsurya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-### Activity Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=Akshithsurya&theme=tokyo-night&hide_border=true)
-
----
 [![](https://komarev.com/ghpvc/?username=Akshithsurya&color=blueviolet)](https://visitcount.itsvg.in)
 [![](https://github-readme-stats.hackclub.dev/api/wakatime?username=53116&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)](https://hackatime.hackclub.com)
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,50:302B63,100:0F0C29&height=120&section=footer)
 
