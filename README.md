@@ -2,32 +2,112 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00C7B7&height=200&section=header&text=Akshith%20Surya&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Astrophysics%20%C3%97%20Hardware%20Security&descAlignY=58&descSize=18&descColor=E0E0E0)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&height=50&lines=NASA+Space+Apps+2025+Global+Nominee;ISRO+Space+Week+%E2%80%94+1st+Prize+Winner;Building+things+that+actually+work;One+commit%2C+one+paper%2C+one+launch+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&height=60&lines=NASA+Space+Apps+2025+Global+Nominee;ISRO+Space+Week+%E2%80%94+1st+Prize+Winner;Building+things+that+actually+work;One+commit%2C+one+paper%2C+one+launch+at+a+time)](https://git.io/typing-svg)
 
 </div>
 
-# About Me:
--Grade 10 student from Palakkad, Kerala, with an obsession for astrophysics, hardware security, and building things that actually work.<br>NASA Space Apps 2025 Global Nominee and ISRO Space Week 1st Prize winner, turning curiosity into projects that go beyond the classroom.<br>I build AI-powered exoplanet finders, hardware pentesting tools, and career platforms, usually all at the same time.<br>Deeply interested in transit photometry, near-Earth objects, dark matter, and anything the universe hasn't explained yet.<br>Hardware security researcher who enjoys poking at ESP32s, RF signals, and firmware that was never meant to be touched.<br>Mentored by a NASA-affiliated planetary scientist, grounded in the Kerala mathematical tradition, and always looking further out.<br>One commit, one paper, one launch at a time, working toward a future in astrophysics and aerospace research.
+# About Me
 
-
-## Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?logo=netlify&logoColor=white)](https://akshith-surya-portfolio-ak.netlify.app/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ak_45_______) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Plane_Channel_7406) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Akshithsurya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshithsurya1@proton.me) 
-
-# Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Erlang](https://img.shields.io/badge/erlang-%23A90533.svg?style=for-the-badge&logo=erlang&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white) ![MSFconsole](https://img.shields.io/badge/MSFconsole-2596CD?style=for-the-badge&logo=metasploit&logoColor=white) ![Netcat](https://img.shields.io/badge/Netcat--nc-000000?style=for-the-badge&logo=gnu&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Akshithsurya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Akshithsurya&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Akshithsurya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Akshithsurya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- Grade 10 student from Palakkad, Kerala, with an obsession for astrophysics, hardware security, and building things that actually work.
+- NASA Space Apps 2025 Global Nominee & ISRO Space Week 1st Prize Winner, turning curiosity into projects that go beyond the classroom.
+- I build AI-powered exoplanet finders, hardware pentesting tools, and career platforms—usually all at the same time.
+- Deeply interested in transit photometry, near-Earth objects, dark matter, and anything the universe hasn't explained yet.
+- Hardware security researcher who enjoys poking at ESP32s, RF signals, and firmware that was never meant to be touched.
+- Mentored by a NASA-affiliated planetary scientist, grounded in the Kerala mathematical tradition, and always looking further out.
+- One commit, one paper, one launch at a time, working toward a future in astrophysics and aerospace research.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Akshithsurya&color=blueviolet)](https://visitcount.itsvg.in)
-[![](https://github-readme-stats.hackclub.dev/api/wakatime?username=53116&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)](https://hackatime.hackclub.com)
+
+# Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)](https://akshith-surya-portfolio-ak.netlify.app/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/ak_45_______) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500?logo=Reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/Plane_Channel_7406) 
+[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white&style=for-the-badge)](https://codepen.io/Akshithsurya) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:akshithsurya1@proton.me)
+
+</div>
+
+---
+
+# Tech Stack
+
+*To prevent rendering lag, here are my core technologies.*
+
+<div align="center">
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Go](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white) 
+![Lua](https://img.shields.io/badge/Lua-%232C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+**AI & Data Science**  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Hardware & Security**  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) 
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) 
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white) 
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
+
+<details>
+<summary><b>Click to expand full tech stack</b></summary>
+<br>
+
+- **Languages:** AssemblyScript, C, C#, HTML5, CSS3, PHP, Ruby, Erlang, TypeScript, Zig, Bash  
+- **Frameworks:** .NET, Angular, Django, Flask, WordPress, WindiCSS, Vue.js, Vite, Three.js, TailwindCSS, React, React Native, Next.js, Node.js  
+- **Data & Brokers:** Apache Spark, Apache Ant, Apache Airflow, RabbitMQ, MySQL, MongoDB, Firebase  
+- **Design & Creative:** Adobe Suite, Figma, Canva, Krita, GIMP, Adobe Lightroom  
+- **Systems & Tools:** Windows Terminal, PowerShell, Nmap, MSFconsole, Netcat, TOR, Pi-Hole, XFCE, Notion, Meta, AMD, Unreal Engine, Unity, Godot Engine, Steam, Zigbee, Linux
+
+</details>
+
+</div>
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+<!-- Official, highly reliable Vercel endpoints -->
+![](https://github-readme-stats.vercel.app/api?username=Akshithsurya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)  
+![](https://streak-stats.demolab.com?user=Akshithsurya&theme=tokyonight&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshithsurya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<br>
+
+### Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=Akshithsurya&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true)
+
+<br>
+
+### Coding Activity
+[![](https://github-readme-stats.hackclub.dev/api/wakatime?username=53116&api_domain=hackatime.hackclub.com&theme=tokyonight&hide_border=true&custom_title=Hackatime+Stats&layout=compact&langs_count=8)](https://hackatime.hackclub.com)
+
+<br>
+
+[![](https://komarev.com/ghpvc/?username=Akshithsurya&color=00C7B7&style=flat-square)](https://visitcount.itsvg.in)
+
+</div>
+
+---
+
+<div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,50:302B63,100:0F0C29&height=120&section=footer)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
