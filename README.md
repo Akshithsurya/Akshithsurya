@@ -44,6 +44,8 @@ Heavier on RF/signal analysis and firmware than any badge list suggests — most
 
 ![](https://streak-stats.demolab.com/?user=Akshithsurya&theme=tokyonight&hide_border=true)
 
+[![](https://github-readme-stats.hackclub.dev/api/wakatime?username=53116&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)](https://hackatime.hackclub.com)
+
 </div>
 
 ---
