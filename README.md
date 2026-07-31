@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00C7B7&height=180&section=header&text=Akshith%20Surya&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Palakkad%2C%20Kerala%20%E2%80%94%20Astrophysics%20%2B%20Hardware%20Security&descAlignY=58&descSize=16&descColor=E0E0E0)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=900&color=00C7B7&center=true&vCenter=true&width=650&lines=Reading+light+curves+for+planets+that+shouldn%27t+be+visible;Reverse-engineering+ESP32s+one+wrong+protocol+at+a+time;Grade+10%2C+Palakkad%2C+Kerala;Building+the+tool%2C+then+using+it+to+find+where+it%27s+wrong)](https://github.com/Akshithsurya)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=900&color=00C7B7&center=true&vCenter=true&width=650&lines=Grade+10%2C+Palakkad%2C+Kerala;Exoplanets+by+transit%2C+ESP32s+by+protocol;Building+the+tool%2C+then+finding+where+it%27s+wrong;Science+literacy+as+a+side+quest%2C+not+a+footnote)](https://github.com/Akshithsurya)
 
 </div>
 
@@ -15,6 +15,8 @@ Two things I keep coming back to: reading light curves for signs of planets that
 ![NASA Space Apps](https://img.shields.io/badge/NASA%20Space%20Apps%202025-Global%20Nominee-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
 ![ISRO Space Week](https://img.shields.io/badge/ISRO%20Space%20Week-1st%20Prize%20%C2%B7%202nd%20Prize-FF6600?style=for-the-badge)
 
+*NASA Space Apps — team lead, RC_Real Coding*
+
 </div>
 
 ---
@@ -24,13 +26,16 @@ Two things I keep coming back to: reading light curves for signs of planets that
 **[EXOVision](https://github.com/Akshithsurya/EXOVision)** — exoplanet detection from transit photometry, ML-driven. Went back through my own repo and fixed what I'd shipped broken the first time: an exponential-smoothing forecast that silently failed, a missing `calculateHabitability()` method, a dead API key fallback, a duplicated source file. The unglamorous kind of progress.
 `Python` `TensorFlow` `Pandas` `NumPy`
 
-**[ESP_Penetrator](https://github.com/Akshithsurya/ESP_Penetrator)** — an ESP32 hardware pentesting toolkit. Core active project.
+**[ESP_Penetrator](https://github.com/Akshithsurya/ESP_Penetrator)** — an ESP32 hardware pentesting toolkit, and my core active project. Find out what a chip will do when you stop following its firmware's rules.
 `C++` `ESP32` `RF/Signal Analysis`
 
 **[Vulcan](https://github.com/Akshithsurya/Vulcan)** — a Bash-based security research framework. Same category as ESP_Penetrator: build the tool, then use the tool to find out where the tool is wrong.
 `Bash` `Security Research`
 
 **IoT Firmware Collection** — an ongoing set of firmware for the hardware I keep collecting excuses to buy. ESP32, ESP8266, Raspberry Pi, Arduino.
+
+**Helpy** — an Electron desktop app paired with a Chrome extension, built for focus management: closing the gap between deciding to work and actually doing it.
+`Electron` `JavaScript` `Chrome Extension`
 
 **[Arivu](https://arivu-pallakad.netlify.app)** — bilingual Malayalam/English platform for science career literacy, built with Aadi Mahesh. This is the one meant to outlast me: not a personal showcase, a resource for the next kid in Palakkad who doesn't know astrophysics is a job you can have.
 
