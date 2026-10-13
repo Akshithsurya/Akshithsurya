@@ -1,21 +1,21 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00C7B7&height=180&section=header&text=Akshith%20Surya&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Palakkad%2C%20Kerala%20%E2%80%94%20Astrophysics%20%2B%20Hardware%20Security&descAlignY=58&descSize=16&descColor=E0E0E0)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00C7B7&height=180&section=header&text=Akshith%20Surya&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Astrophysics%20%C2%B7%20Hardware%20Security%20%C2%B7%20Palakkad%2C%20Kerala&descAlignY=58&descSize=16&descColor=E0E0E0)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=900&color=00C7B7&center=true&vCenter=true&width=650&lines=Grade+10%2C+Palakkad%2C+Kerala;Exoplanets+by+transit%2C+ESP32s+by+protocol;Building+the+tool%2C+then+finding+where+it%27s+wrong;Science+literacy+as+a+side+quest%2C+not+a+footnote)](https://github.com/Akshithsurya)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=900&color=00C7B7&center=true&vCenter=true&width=650&lines=Grade+10%2C+Palakkad%2C+Kerala;Exoplanets+by+transit%2C+ESP32s+by+protocol;Build+the+tool%2C+then+find+where+it+is+wrong;Science+literacy+as+a+side+quest%2C+not+a+footnote)](https://github.com/Akshithsurya)
 
 </div>
 
-I'm in grade 10 in Palakkad, Kerala — the district the Kerala School of Mathematics called home six centuries before me. That's not trivia, it's the frame I build in: old mathematical tradition, new hardware.
+I'm in grade 10 in Palakkad, on the Bharathapuzha, the river basin where the Kerala school of astronomy and mathematics worked six centuries ago. That is the frame I build in: an old tradition of measuring the sky carefully, applied with new hardware.
 
-Two things I keep coming back to: reading light curves for signs of planets that shouldn't be visible, and taking apart ESP32s to find out what they'll do if you ask nicely with the wrong protocol.
+Two questions keep pulling me back. What does a light curve say when it hints at a planet nobody should be able to see? And what will an ESP32 do when you speak to it in the wrong protocol?
 
 <div align="center">
 
 ![NASA Space Apps](https://img.shields.io/badge/NASA%20Space%20Apps%202025-Global%20Nominee-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
 ![ISRO Space Week](https://img.shields.io/badge/ISRO%20Space%20Week-1st%20Prize%20%C2%B7%202nd%20Prize-FF6600?style=for-the-badge)
 
-*NASA Space Apps — team lead, RC_Real Coding*
+*Team lead, RC_Real Coding. ISRO Space Week: 1st in project, 2nd in quiz.*
 
 </div>
 
@@ -23,44 +23,51 @@ Two things I keep coming back to: reading light curves for signs of planets that
 
 ### What I'm building
 
-**[EXOVision](https://github.com/Akshithsurya/EXOVision)** — exoplanet detection from transit photometry, ML-driven. Went back through my own repo and fixed what I'd shipped broken the first time: an exponential-smoothing forecast that silently failed, a missing `calculateHabitability()` method, a dead API key fallback, a duplicated source file. The unglamorous kind of progress.
+**[ESP_Penetrator](https://github.com/Akshithsurya/ESP_Penetrator)**
+An ESP32 pentesting toolkit and my main active project. It asks one question: what does this chip do once you stop following its firmware's rules?
+`C++` `ESP32` `RF / Signal Analysis`
+
+**[EXOVision](https://github.com/Akshithsurya/EXOVision)**
+Exoplanet detection from transit photometry, driven by machine learning. The recent work was the unglamorous kind: I went back through my own repo and fixed what I had shipped broken. A forecast that failed silently, a missing `calculateHabitability()` method, a dead API key fallback, a duplicated source file.
 `Python` `TensorFlow` `Pandas` `NumPy`
 
-**[ESP_Penetrator](https://github.com/Akshithsurya/ESP_Penetrator)** — an ESP32 hardware pentesting toolkit, and my core active project. Find out what a chip will do when you stop following its firmware's rules.
-`C++` `ESP32` `RF/Signal Analysis`
-
-**[Vulcan](https://github.com/Akshithsurya/Vulcan)** — a Bash-based security research framework. Same category as ESP_Penetrator: build the tool, then use the tool to find out where the tool is wrong.
+**[Vulcan](https://github.com/Akshithsurya/Vulcan)**
+A Bash security research framework. Same method as ESP_Penetrator: build the tool, then use it to find where the tool is wrong.
 `Bash` `Security Research`
 
-**IoT Firmware Collection** — an ongoing set of firmware for the hardware I keep collecting excuses to buy. ESP32, ESP8266, Raspberry Pi, Arduino.
+**[Arivu](https://arivu-pallakad.netlify.app)**
+A bilingual Malayalam and English platform for science career literacy, built with Aadi Mahesh. It is the project meant to outlast me. Not a showcase, but a resource for the next kid in Palakkad who doesn't know astrophysics is a job you can have.
+`Malayalam` `English` `Netlify`
 
-**Helpy** — an Electron desktop app paired with a Chrome extension, built for focus management: closing the gap between deciding to work and actually doing it.
+**Helpy**
+An Electron desktop app paired with a Chrome extension for focus management. It targets the gap between deciding to work and actually starting.
 `Electron` `JavaScript` `Chrome Extension`
 
-**[Arivu](https://arivu-pallakad.netlify.app)** — bilingual Malayalam/English platform for science career literacy, built with Aadi Mahesh. This is the one meant to outlast me: not a personal showcase, a resource for the next kid in Palakkad who doesn't know astrophysics is a job you can have.
+**IoT Firmware Collection**
+An ongoing set of firmware for ESP32, ESP8266, Raspberry Pi and Arduino boards, collected as fast as I can find reasons to buy them.
 
-Mentored by Dr. Aswin Sekhar, NASA-affiliated planetary scientist working on meteor dynamics and near-Earth objects — which mostly means someone periodically tells me which of my ideas are actually testable.
+Mentored by Dr. Aswin Sekhar, a NASA-affiliated planetary scientist working on meteor dynamics and near-Earth objects. In practice, he tells me which of my ideas are actually testable.
 
 ---
 
 ### Stack
 
-Heavier on RF/signal analysis and firmware than any badge list suggests — most of that work doesn't compile into a GitHub-visible commit graph.
+Most of my RF and firmware work never shows up in a commit graph, so the badges below understate it.
 
 **Languages**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 
-**ML & Data**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
+**ML and Data**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
 
-**Web & Frontend**
+**Web**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) ![Three.js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 
-**Hardware & Security**
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=flat-square&logo=zigbee&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![Metasploit](https://img.shields.io/badge/MSFconsole-2596CD?style=flat-square&logo=metasploit&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat-square&logo=tor-project&logoColor=white)
+**Hardware and Security**
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
-**Infra & Tools**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Godot](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat-square&logo=godot-engine)
+**Infra and Tools**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Godot](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat-square&logo=godot-engine)
 
 ---
 
@@ -68,12 +75,12 @@ Heavier on RF/signal analysis and firmware than any badge list suggests — most
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=Akshithsurya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Akshithsurya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![GitHub stats](https://github-readme-stats.shion.dev/api?username=Akshithsurya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Akshithsurya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://streak-stats.demolab.com/?user=Akshithsurya&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=Akshithsurya&theme=tokyonight&hide_border=true)
 
-[![](https://github-readme-stats.hackclub.dev/api/wakatime?username=53116&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)](https://hackatime.hackclub.com)
+[![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=53116&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)](https://hackatime.hackclub.com)
 
 </div>
 
